@@ -136,13 +136,13 @@ html,body{
 .subscribe-section{
     background-color: #2D25A0;
 }
-.subscribe-section .container{
+.subscribe-section .subscribe-area{
     display: flex;
     padding: 5% 15%;
      align-items: center;
      justify-content: center;
 }
-.subscribe-section .container .col{
+.subscribe-section .subscribe-area .col{
     width: 50%;
 
 }
@@ -180,7 +180,7 @@ footer{
  }
 
 /*------------------------------
- Media screen 
+  Media screen Start
  -------------------------------*/
 
 @media only screen and (max-width: 688px){
@@ -298,11 +298,11 @@ footer{
     margin: 30px 0;
 }
 
-.subscribe-section .container{
+.subscribe-section .subscribe-area{
     display: block;
     padding: 5%;
 }
-.subscribe-section .container .col{
+.subscribe-section .subscribe-area .col{
     width: 100%;
 
 }
