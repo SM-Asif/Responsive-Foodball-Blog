@@ -108,8 +108,13 @@ body{
 .highlights-area{
     width: 50%;
     margin-left: 182px;
-    margin-top: px;
+    margin-top: -163px;
     
+}
+
+.highlights-area h3{
+    font-size: 48px;
+    margin-bottom: 8px;
 }
 
 .highlights-area img{
